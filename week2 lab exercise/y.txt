@@ -1,0 +1,25 @@
+344: number
+main : identifier
+(
+)
+{ 
+int : keyword 
+a : identifier
+,
+b : identifier
+==: relational operator Equal to
+9: number
+. 
+444: number
+;
+/': invalid lexeme
+<: relational operator Less Than
+>: relational operator Greater Than
+<: relational operator Less Than
++
+<=: relational operator Less Than or Equal To
+!
+,
+!=: relational operator Not Equal to
+purna : identifier
+comment not closed
